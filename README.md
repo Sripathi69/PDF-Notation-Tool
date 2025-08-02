@@ -31,6 +31,7 @@
 ✅ Saves hours while working on **literature reviews** or **multi-paper projects**
 
 ---
+Feedback : With subject line PDF Annotator send email to sripathi_bhat@yahoo.com
 
 ### 📺 [Demo Video »](https://youtu.be/oTf2q3iVTQA)  
 ### 📦 [Download Latest Release »](https://github.com/Sripathi69/PDF-Notation-Tool/releases/download/v1.0.0/PDFA.exe)
