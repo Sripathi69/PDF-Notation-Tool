@@ -7,6 +7,12 @@
 
 ---
 
+<img width="996" height="777" alt="image" src="https://github.com/user-attachments/assets/4447567a-ac8c-4f84-b312-94eb00befbfa" />
+
+
+---
+
+
 ### 🚀 How it Works
 
 🔹 Simply **copy text** (`Ctrl + C`) from any PDF or PDF webpage  
