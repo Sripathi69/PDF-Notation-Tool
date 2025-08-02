@@ -1,15 +1,32 @@
-# PDF-Notation-Tool
-Tool for people who frequently refer to multiple PDF documents and prepare reference, notations without having to bother looking at Word document until finally ready
+# 📝 PDF-Notation-Tool
 
-Simply copy text Ctrl+C from any pdf document or pdf webpage, and press Ctrl+Alt+N or Ctrl+Alt+V to capture and categorize it. 
+> 📚 **Smart Tool for Efficient PDF Note-taking & Reference Building**
 
-Each source gets its own tab, letting you annotate and organize your insights with rich formatting. 
+**Tired of switching between PDFs and Word while collecting notes?**  
+**PDF-Notation-Tool** lets you seamlessly copy, categorize, and annotate text — with zero friction.
 
-You can append or create new categorization within the tab. Save your work in Word, or plain text formats. 
+---
 
-It’s the smartest way to build literature reviews, gather notes, and stay organized across multiple papers – all in one seamless interface."
+### 🚀 How it Works
 
-Demo Video: https://youtu.be/oTf2q3iVTQA
+🔹 Simply **copy text** (`Ctrl + C`) from any PDF or PDF webpage  
+🔹 Then **press `Ctrl + Alt + V` or `Ctrl + Alt + N`** to instantly capture and organize it  
+🔹 Each **PDF source** opens in its **own tab**, keeping references tidy  
+🔹 Supports **rich formatting** and **inline annotations**
 
-Download Link: https://github.com/Sripathi69/PDF-Notation-Tool/releases/download/v1.0.0/PDFA.exe
+---
 
+### 🗂️ Features
+
+✅ Automatic tab creation for each PDF  
+✅ Append or categorize notes within tabs  
+✅ Export to **Word (.docx)** or **Plain Text (.txt)**  
+✅ Ideal for **researchers**, **students**, **review writers**, and **academics**  
+✅ Saves hours while working on **literature reviews** or **multi-paper projects**
+
+---
+
+### 📺 [Demo Video »](https://youtu.be/oTf2q3iVTQA)  
+### 📦 [Download Latest Release »](https://github.com/Sripathi69/PDF-Notation-Tool/releases/download/v1.0.0/PDFA.exe)
+
+---
