@@ -9,7 +9,7 @@ You can append or create new categorization within the tab. Save your work in Wo
 
 It’s the smartest way to build literature reviews, gather notes, and stay organized across multiple papers – all in one seamless interface."
 
-Demo Video : 
+Demo Video: https://youtu.be/oTf2q3iVTQA
 
 Download Link: https://github.com/Sripathi69/PDF-Notation-Tool/releases/download/v1.0.0/PDFA.exe
 
